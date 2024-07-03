@@ -1,7 +1,7 @@
 import os
-os.environ["GOOGLE_CSE_ID"] = "6166c230ba6014caf"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyD0y3H97lRUGTYW9zTHSwU3ZD3liWjC6Hg"
-os.environ["WOLFRAM_ALPHA_APPID"] = "U2KEY7-AL2LY8THU5"
+os.environ["GOOGLE_CSE_ID"] = "Your Link Here"
+os.environ["GOOGLE_API_KEY"] = "Your Link Here"
+os.environ["WOLFRAM_ALPHA_APPID"] = "Your Link Here"
 import torch
 from langchain.retrievers.multi_vector import MultiVectorRetriever
 from langchain.storage import InMemoryByteStore
