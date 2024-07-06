@@ -1,1 +1,1 @@
-![](https://github.com/ReactFinancialRAG/demo.gif)
+![](https://github.com/aayushv001/ReactFinancialRAG/blob/main/demo.gif)
