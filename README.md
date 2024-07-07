@@ -1,1 +1,3 @@
+# Financial Rag Agent Using ReACT Agent and Langchain.
+## Observe as the agent breaks down complex tasks into smaller ones and uses Chain Of Thought to solve them.
 <img src="https://github.com/aayushv001/ReactFinancialRAG/blob/main/demo.gif"/>
